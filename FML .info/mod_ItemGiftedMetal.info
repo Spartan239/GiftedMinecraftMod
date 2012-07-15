@@ -1,0 +1,17 @@
+[
+{
+  "modid" : "mod_ItemGiftedMetal",
+  "name" : "Gifted Metal Ingot",
+  "version" : "v1.0",
+  "url" : "http://www.minecraftforum.net/topic/1352937-125-gifted-minecraft-extra-items/",
+  "credits" : "Made by Black_Sirrah",
+  "authors": [
+    "Black_Sirrah"
+  ],
+  "description": "The Gifted Metal Ingot component of the 'Gifted Items' mod.",
+  "updateUrl" : "http://www.minecraftforum.net/topic/1352937-125-gifted-minecraft-extra-items/",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]
